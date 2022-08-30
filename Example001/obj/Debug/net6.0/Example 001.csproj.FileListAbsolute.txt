@@ -1,0 +1,15 @@
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\bin\Debug\net6.0\Example 001.exe
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\bin\Debug\net6.0\Example 001.deps.json
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\bin\Debug\net6.0\Example 001.runtimeconfig.json
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\bin\Debug\net6.0\Example 001.dll
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\bin\Debug\net6.0\Example 001.pdb
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\Example 001.csproj.AssemblyReference.cache
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\Example 001.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\Example 001.AssemblyInfoInputs.cache
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\Example 001.AssemblyInfo.cs
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\Example 001.csproj.CoreCompileInputs.cache
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\Example 001.dll
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\refint\Example 001.dll
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\Example 001.pdb
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\Example 001.genruntimeconfig.cache
+E:\GeekBrain\4 Знакомства с языками программирования\Examples\Example 001\obj\Debug\net6.0\ref\Example 001.dll
